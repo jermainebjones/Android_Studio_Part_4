@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyDatabase4</string>
+
+    <array name="price">
+        <item>watermelon</item>
+        <item>pear</item>
+        <item>cherry</item>
+        <item>peach</item>
+        <item>grape</item>
+        <item>orange</item>
+        <item>banana</item>
+        <item>apple</item>
+        <item>apricot</item>
+
+
+    </array>
+
+</resources>
